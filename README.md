@@ -42,23 +42,37 @@
 
 - ⚡ Fun fact: **I love to play Sports🏏🏐**
 
-- 📄 Know about my experiences <a href="https://linkedin.com/in/https://www.linkedin.com/in/neel-prajapati-590375259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neel-prajapati-590375259/" height="20" width="30" /></a>
+- 📄 Know about my experiences  <a href="https://www.linkedin.com/in/neel-prajapati-590375259/"><img src="https://img.shields.io/badge/neel%20prajapati-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"
+                                                                                                  width="120"/></a>
 <br>
 
 ## Connect with me 💡:
-<p align="left"> 
+<!-- <p align="left"> 
 <a href="https://twitter.com/Neel_12902" target="blank"><img src="https://img.shields.io/twitter/follow/neel_prajapati?logo=twitter&style=for-the-badge" alt="Neel_12902" /></a>&nbsp
 <a href="https://www.linkedin.com/in/neel-prajapati-590375259/"><img src="https://img.shields.io/badge/neel%20prajapati-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<!-- <a href="https://kevalvavaliya.me" target="_blank"><img src="https://img.shields.io/website?label=kevalvavaliya.me&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fkevalvavaliya.me" alt="kevalvavaliya.me" /></a> -->
+<a href="https://instagram.com/https://www.instagram.com/neelprajapati_/"><img src="https://img.shields.io/badge/neel%20prajapati-0077B5?style=for-the-badge&logo=Instagram&logoColor=pink"/></a>
 &nbsp
    <a href="mailto:prajapatineel64@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:prajapatineel64@gmail.com" />
   </a>
+</p> -->
+
+<p align="left">
+<a href="https://twitter.com/Neel_12902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Neel_12902" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neel-prajapati-590375259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neel-prajapati-590375259/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/neelprajapati_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neelprajapati_/" height="30" width="40" /></a>
 </p>
 
 <br/>
 
+<!--
+## Logs
 
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/neel-prajapati-590375259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neel-prajapati-590375259/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/neelprajapati_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neelprajapati_/" height="30" width="40" /></a>
+</p>
+-->
 
 ## Tools,Technologies and Frameworks:
 <p>
