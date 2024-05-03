@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,express,nodejs,java,mysql,mongodb,git,github,materialui,tailwind,vscode,vite,html,css,sass,md,ts,vercel,azure,postman,docker,go&perline=12" />
   </a> -->
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,java,git,github,tailwind,vscode,vite,html,css,sass,md,ts,vercel,postman&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,sass,ts,react,nextjs,git,github,tailwind,vscode,vite,vercel,postman&perline=12" />
   </a>
 </p>
 
