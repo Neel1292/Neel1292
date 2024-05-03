@@ -61,6 +61,8 @@
 <a href="https://twitter.com/Neel_12902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/Neel_12902" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/neel-prajapati-590375259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neel-prajapati-590375259/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/neelprajapati_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/neelprajapati_/" height="30" width="40" /></a>
+  <a href="mailto:prajapatineel64@gmail.com" ><img align="center" src="https://github.com/Neel1292/Neel1292/blob/main/gmail.png" alt="mailto:prajapatineel64@gmail.com" height="60" width="60" /></a>&nbsp;
+ 
 </p>
 
 <br/>
