@@ -1,84 +1,89 @@
-<!-- ### Hi there 👋 -->
 
 
-<h1 align="center">
-  <img src="https://github.com/Neel1292/Neel1292/blob/main/name.svg" alt="Neel Prajapati" />
-</h1>
+[![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)](https://www.github.com/Neel1292) 
 
 
-<!-- <h1 align="center">
-  <img src="https://raw.githubusercontent.com/hirentimbadiya/hirentimbadiya/master/name.svg" alt="Hiren Timbadiya" />
-</h1> -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Neel1292&label=Profile%20views&color=0e75b6&style=flat" width="145px" alt="hirentimbadiya" /> </p>
-
-
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-<!-- [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer) -->
-
-<!-- Display GitHub profile trophies using the trophy image with specified settings -->
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=hirentimbadiya&theme=radical&margin-w=20&margin-h=15&no-frame=true)](https://github.com/hirentimbadiya/github-profile-trophy)
+████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
+████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
+████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
+▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
+█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
+▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
+██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
+█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
+██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
+████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
+██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
+████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
+████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
+█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
+█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
+▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+
 -->
-<p align="left"> <a href="https://twitter.com/Neel_12902" target="blank"><img src="https://img.shields.io/twitter/follow/Neel_12902?logo=twitter&style=for-the-badge" alt="Neel_12902" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Neel_12902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Neel_12902" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/neel-prajapati-590375259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Neel Prajapati" height="30" width="40" /></a>
-<!-- <a href="https://stackoverflow.com/users/20626209/hiren-timbadiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="hiren-timbadiya" height="30" width="40" /></a> -->
-<a href="https://instagram.com/neelprajapati_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heyhiru" height="30" width="40" /></a>
-<!-- <a href="https://www.leetcode.com/hirentimbadiya74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hirentimbadiya74" height="30" width="40" /></a> -->
-<!-- <a href="https://auth.geeksforgeeks.org/user/hirentimbadiya74" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hirentimbadiya74" height="30" width="40" /></a> -->
-<!-- <a href="https://hirentimbadiya.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/hirentimbadiya/hirentimbadiya/master/hashnode.png" alt="hirentimbadiya74" height="45" width="50" /></a> -->
-</p>
+<h1 align="center"> जय श्री राम 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Neel Prajapati! </h1>
+<br>
+<h3 align="center">A DEDICATED WEB DEVELOPER </h3><br/>
+<img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-<!--   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,express,nodejs,java,mysql,mongodb,git,github,materialui,tailwind,vscode,vite,html,css,sass,md,ts,vercel,azure,postman,docker,go&perline=12" />
-  </a> -->
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,sass,ts,react,nextjs,git,github,tailwind,vscode,vite,vercel,postman&perline=12" />
+<h3> 🧑 I'm a Programmer, Developer and Learner Forever!</h3>
+
+- 🌱 I’m currently learning **Everything🧑🏽‍💻**
+
+- 💬 Ask me about **JavaScript, React, Next.js**
+
+- 📫 How to reach me **prajapatineel64@gmail.com**
+
+- ⚡ Fun fact: **I love to play Sports🏏🏐**
+
+- 📄 Know about my experiences <a href="https://linkedin.com/in/https://www.linkedin.com/in/neel-prajapati-590375259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/neel-prajapati-590375259/" height="20" width="30" /></a>
+<br>
+
+## Connect with me 💡:
+<p align="left"> 
+<a href="https://twitter.com/Neel_12902" target="blank"><img src="https://img.shields.io/twitter/follow/neel_prajapati?logo=twitter&style=for-the-badge" alt="Neel_12902" /></a>&nbsp
+<a href="https://www.linkedin.com/in/neel-prajapati-590375259/"><img src="https://img.shields.io/badge/neel%20prajapati-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<!-- <a href="https://kevalvavaliya.me" target="_blank"><img src="https://img.shields.io/website?label=kevalvavaliya.me&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fkevalvavaliya.me" alt="kevalvavaliya.me" /></a> -->
+&nbsp
+   <a href="mailto:prajapatineel64@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:prajapatineel64@gmail.com" />
   </a>
 </p>
 
-<!--
-<p><img align="left" src="https://github-readme-stats-phi-rouge-46.vercel.app/api/top-langs?username=hirentimbadiya&hide=html&theme=codeSTACKr&show_icons=true&locale=en&layout=compact&title_color=FFBF00" alt="hirentimbadiya" /></p>
-
-<p><img align="center" src="https://github-readme-stats-phi-rouge-46.vercel.app/api?username=hirentimbadiya&theme=ocean_dark&show_icons=true&ring_color=ff0000&title_color=FFBF00" alt="hirentimbadiya"/></p>
--->
-
-<!--
-**Neel1292/Neel1292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
 
 
 
-<!--
-**Neel1292/Neel1292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools,Technologies and Frameworks:
+<p>
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,tailwind,js,ts,react,vite,nextjs,git,github,vscode,vercel,postman&perline=8" />
+  </a>
+</p>
+           
+<br/>
+           
+ 
+ <!-- Display GitHub profile trophies using the trophy image with specified settings -->
 
-Here are some ideas to get you started:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Neel1292&theme=radical&margin-w=20&margin-h=15&no-frame=true)](https://github.com/Neel1292/github-profile-trophy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Github Stats  
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Neel1292&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Neel1292&theme=tokyonight" />
+</div>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Neel1292&&style=flat-square" align="center" />
+</div> 
