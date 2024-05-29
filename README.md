@@ -82,7 +82,7 @@
 ## Tools,Technologies and Frameworks:
 <p>
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,tailwind,js,ts,react,vite,nextjs,git,github,vscode,vercel,postman&perline=8" />
+    <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,tailwind,js,ts,react,vite,nextjs,nodejs,mongodb,git,github,vscode,vercel,postman&perline=8" />
   </a>
 </p>
            
