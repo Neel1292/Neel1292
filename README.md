@@ -32,6 +32,7 @@
 <h3 align="center">A DEDICATED & CONSISTENT WEB DEVELOPER </h3><br/>
 <!-- <img width="40%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 <!-- <img width="40%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" /> -->
+<img width="40%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 <h3> 🧑 I'm a Programmer, Developer and Learner Forever!</h3>
 
