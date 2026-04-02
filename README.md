@@ -4,30 +4,6 @@
 
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.github.com/Neel1292) 
 
-<!--
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
-
--->
-
 <h1 align="center"> जय श्री राम 🙏🏻, Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Neel Prajapati! </h1>
 <br>
 <h3 align="center">Full-Stack JavaScript Developer | React • Next.js • Node.js</h3><br/>
@@ -35,23 +11,17 @@
 <!-- <img width="40%" align="right" alt="Github Image" src="https://camo.githubusercontent.com/0dbe167d7b778f5e825114a095ad46a2c852ba91fc82ec2d4fd8865c67ecd2a1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" /> -->
 <!-- <img width="40%" align="right" alt="Github Image" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /> -->
 
-<!---<h3> 🧑 I'm a Programmer, Developer and Learner Forever!</h3>
-- 🌱 I’m currently learning **TypeScript, System Design, and PostgreSQL🧑🏽‍💻**
-- 💬 Ask me about **JavaScript, React, Next.js**
-- 📫 How to reach me **prajapatineel64@gmail.com**
-- ⚡ Fun fact: **I love to play Sports🏏🏐**
-- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1WwoQmj4QDTsDMbwcIudiDJGrAcBXgTpR/view?usp=drivesdk">Download CV</a> -->
 
 <h3> 🧑 About Me</h3>
 
 - 💻 Full-Stack JavaScript Developer focused on modern web applications
-- ⚡ Passionate about building scalable and performant UI
 - 📦 Experience with REST APIs and backend development
 - 🌱 Currently learning TypeScript, System Design, PostgreSQL
 - 💬 Ask me about JavaScript, React.js, Next.js
-- 📫 Reach me at prajapatineel12002@gmail.com
 - ⚡ Fun fact: I love playing sports 🏏🏐
 - 📄 <a href="https://drive.google.com/file/d/1WwoQmj4QDTsDMbwcIudiDJGrAcBXgTpR/view?usp=drivesdk">Download Resume</a>
+<!-- - ⚡ Passionate about building scalable and performant UI -->
+<!-- - 📫 Reach me at prajapatineel12002@gmail.com -->
 
 <br>
 
@@ -90,7 +60,7 @@
 </p>
 -->
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Neel1292&langs_count=12&theme=tokyonight)]()
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Neel1292&langs_count=12&theme=tokyonight)]() -->
 
 <!-- ## Tools,Technologies and Frameworks:
 <p><a href="https://skillicons.dev">
